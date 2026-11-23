@@ -4,7 +4,7 @@ This is a public demo repo for Godwin! This is just the random name I chose for 
 that's best for you over time, connecting to research that you want to get into or classes that students are in, and legitimately trying to express the intuition of difficult ideas without coating
 it in intellection or adding complexity. This has been such a fun challenge to build; I'm eager to release it soon, as a few friends are asking to actually use it!
 
-## Turn Sound On!
+### Turn Sound On!
 
 https://github.com/user-attachments/assets/76f98f57-af1f-40f1-a641-8023604421fa
 

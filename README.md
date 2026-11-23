@@ -5,7 +5,9 @@ that's best for you over time, connecting to research that you want to get into 
 it in intellection or adding complexity. This has been such a fun challenge to build; I'm eager to release it soon, as a few friends are asking to actually use it!
 
 The demo below focuses on "show visuals fast", but my favorite parts with this AI tool are actually completely simple, almost 2-dimensional visuals. Imagine a human being at a whiteboard; I learned
-a counterintuitive truth around doing this project. As the quality of visuals evolved, I learned a type of dimensional collapse was present in learning: sometimes, circles and arrows and squares are all you need :) **Turn sound on**
+a counterintuitive truth around doing this project. As the quality of visuals evolved, I learned a type of dimensional collapse was present in learning: sometimes, circles and arrows and squares are all you need :) 
+
+** Turn sound on**
 
 https://github.com/user-attachments/assets/76f98f57-af1f-40f1-a641-8023604421fa
 
